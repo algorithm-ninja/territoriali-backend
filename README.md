@@ -1,3 +1,3 @@
-# territoriali-backend
+# Merged into [terry](https://github.com/algorithm-ninja/terry)
 
-Where the magic begins!
+This repo should not be used anymore, please check it out!
